@@ -1,7 +1,7 @@
 "use strict";
 
 
-/* let typeOfDate_1 = true;
+ let typeOfDate_1 = true;
 let typeOfDate_2 = String (typeOfDate_1);
 console.log (`typeOfDate_1: ${typeof (typeOfDate_1)}`);
 console.log(`typeOfDate_2: ${typeof (typeOfDate_2)}`);
@@ -14,7 +14,7 @@ console.log(`typeOfDate_2: ${typeof (typeOfDate_2)}`);
 let fromNumberToBoolean = Boolean(someText);
 console.log (`fromNumberToBoolean ${typeof (fromNumberToBoolean)}`);
 
-
+/*
  let aNumber = Number(`${"10" / "2"}`);
  console.log (aNumber);
  console.log (typeof aNumber);
